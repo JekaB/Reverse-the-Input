@@ -1,0 +1,6 @@
+c:\users\jeka\documents\visual studio 2013\Projects\Reverse the Input\Reverse the Input\bin\Debug\Reverse the Input.exe.config
+c:\users\jeka\documents\visual studio 2013\Projects\Reverse the Input\Reverse the Input\obj\Debug\Reverse the Input.csprojResolveAssemblyReference.cache
+c:\users\jeka\documents\visual studio 2013\Projects\Reverse the Input\Reverse the Input\bin\Debug\Reverse the Input.exe
+c:\users\jeka\documents\visual studio 2013\Projects\Reverse the Input\Reverse the Input\bin\Debug\Reverse the Input.pdb
+c:\users\jeka\documents\visual studio 2013\Projects\Reverse the Input\Reverse the Input\obj\Debug\Reverse the Input.exe
+c:\users\jeka\documents\visual studio 2013\Projects\Reverse the Input\Reverse the Input\obj\Debug\Reverse the Input.pdb
